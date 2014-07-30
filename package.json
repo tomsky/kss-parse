@@ -1,7 +1,7 @@
 {
   "name": "kss-parse",
   "description": "Parse KSS, documentation syntax for CSS.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Tom-Marius Olsen",
     "url": "https://github.com/tomsky"
@@ -14,12 +14,10 @@
   "bugs": {
     "url": "https://github.com/tomsky/kss-parse/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/tomsky/kss-parse/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/tomsky/kss-parse/blob/master/LICENSE-MIT"
+  },
   "main": "index.js",
   "engines": {
     "node": ">=0.8.0"
@@ -28,8 +26,5 @@
     "marked": "0.3.2",
     "natural": "0.1.27",
     "lodash-node": "~2.4.1"
-  },
-  "devDependencies": {
-
   }
 }
