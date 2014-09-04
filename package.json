@@ -1,7 +1,7 @@
 {
   "name": "kss-parse",
   "description": "Parse KSS, documentation syntax for CSS.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": {
     "name": "Tom-Marius Olsen",
     "url": "https://github.com/tomsky"
@@ -23,8 +23,8 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "marked": "0.3.2",
-    "natural": "0.1.27",
-    "lodash-node": "~2.4.1"
+    "marked": "0.3.x",
+    "natural": "0.1.x",
+    "lodash-node": "2.4.x"
   }
 }
