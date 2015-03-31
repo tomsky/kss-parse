@@ -1,7 +1,7 @@
 {
   "name": "kss-parse",
   "description": "Parse KSS – documentation syntax for CSS.",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "author": {
     "name": "Tom-Marius Olsen",
     "url": "https://github.com/tomsky"
